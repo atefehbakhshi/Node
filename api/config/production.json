@@ -1,0 +1,8 @@
+{
+    "name": "express App - Production",
+    "version": "1.0.0",
+    "SMS": {
+      "ip": "185.17.113.45",
+      "id": "12345abc"
+    }
+  }
